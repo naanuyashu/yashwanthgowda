@@ -68,7 +68,7 @@ body {
       column-rule-color: #88868bee;
     }
     .font{
-        font-family: 'Courier New', Courier, monospace;
+        font-family: sans-serif;
         text-align: center;
         color: #bcbbbb;
         font-weight: lighter 50px;
